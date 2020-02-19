@@ -1,3 +1,14 @@
+---
+permalink: /
+title: "Publications"
+author_profile: true
+redirect_from: 
+  - /Publications/
+  - /Publications.html
+---
+
+
+
 # Juried Publication
 
 Lightfoot, E. & Zheng, M. (Accepted) (2019). A Snapshot of the Tightening Academic Job
