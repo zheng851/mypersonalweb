@@ -1,15 +1,9 @@
----
-title: "A Snapshot of the Tightening Academic Job Market for Social Work Doctoral Students"
-collection: publications
-venue: 'Journal 1'
+# Juried Publication
 
-citation: 
+Lightfoot, E. & Zheng, M. (Accepted) (2019). A Snapshot of the Tightening Academic Job
+Market for Social Work Doctoral Students. Journal of Social Work Education.
 
-'Lightfoot, E. & Zheng, M. (Accepted) (2019). A Snapshot of the Tightening Academic Job Market for Social Work Doctoral Students. <i>Journal of Social Work Education.</i>.'
----
-
-[Download paper here](http://)
-
-Recommended citation: 
-
-Lightfoot, E. & Zheng, M. (Accepted) (2019). &quot;A Snapshot of the Tightening Academic Job Market for Social Work Doctoral Students. &quot; <i>Journal of Social Work Education.</i>.'
+Merighi, J., Zheng, M., & Browne, T. (2018). Nephrology social workers’ caseloads and hourly
+wages in 2014 and 2017: Findings from the National Kidney Foundation Council of
+Nephrology Social Workers professional practice survey. The Journal of Nephrology
+Social Work, 42(1), 31-59.
