@@ -10,7 +10,7 @@ redirect_from:
 <p align="center">
   <img src="https://github.com/zhmy89/mypersonalweb/blob/master/images/yini-161.jpg?raw=true" alt="Photo" style="width: 450px;"/> 
 </p>
-* I am a Ph.D. Candidate at [the University of Minnesota](https://www.umn.edu/) [School of Social Work](https://www.cehd.umn.edu/ssw/). 
+* I am a Ph.D. Candidate at [the University of Minnesota](https://www.umn.edu/) [School of Social Work](https://www.cehd.umn.edu/ssw/).
 * 
 * 
 *
