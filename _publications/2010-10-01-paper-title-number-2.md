@@ -8,9 +8,6 @@ redirect_from:
 ---
 
 
-
-# Juried Publication
-
 Lightfoot, E. & Zheng, M. (Accepted) (2019). A Snapshot of the Tightening Academic Job
 Market for Social Work Doctoral Students. Journal of Social Work Education.
 
