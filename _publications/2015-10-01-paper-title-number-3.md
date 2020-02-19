@@ -1,8 +1,8 @@
 ---
 title: "Juried Publication"
 ---
-This paper is about the number 3. The number 4 is left for future work.
 
-[Download paper here](http://academicpages.github.io/files/paper3.pdf)
+Lightfoot, E. & Zheng, M. (Accepted) (2019). A Snapshot of the Tightening Academic Job Market for Social Work Doctoral Students. Journal of Social Work Education.
 
-Recommended citation: Your Name, You. (2015). "Paper Title Number 3." <i>Journal 1</i>. 1(3).
+Merighi, J., Zheng, M., & Browne, T. (2018). Nephrology social workers’ caseloads and hourly wages in 2014 and 2017: Findings from the National Kidney Foundation Council of Nephrology Social Workers professional practice survey. The Journal of Nephrology Social Work, 42(1), 31-59.
+
