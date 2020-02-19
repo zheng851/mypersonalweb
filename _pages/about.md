@@ -15,13 +15,13 @@ redirect_from:
 * I am a Ph.D. Candidate at [the University of Minnesota](https://www.umn.edu/) [School of Social Work](https://www.cehd.umn.edu/ssw/).
 * 
 * 
-*
-*  
+* 
+* 
 
 # Recent News
 * 
 * 
-*
-*  
+* 
+* 
 
 
