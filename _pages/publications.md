@@ -25,9 +25,9 @@ Zheng, M., & Liu, X. Understanding depression in a family context: Evidence from
 
 # Other Publications
 
-Lightfoot, E. & Zheng, M. (2019). Promising Practices to Support Parents with Intellectual Disabilities. University of Minnesota, Center for Advanced Studies in Child Welfare. Available from [Download] (https://cascw.umn.edu/wp-content/uploads/2019/11PracticeNotes_33.508.pdf)
+Lightfoot, E. & Zheng, M. (2019). Promising Practices to Support Parents with Intellectual Disabilities. University of Minnesota, Center for Advanced Studies in Child Welfare. Available from [Download](https://cascw.umn.edu/wp-content/uploads/2019/11PracticeNotes_33.508.pdf)
 
-Lightfoot, E. & Zheng, M. (2019). Preparing for the Potential Reopening of Inter-Country Adoption from Romania. University of Minnesota, Center for Advanced Studies in Child Welfare. Available from [Download] (https://cascw.umn.edu/wp-content/uploads/2019/11/PN34_WEB508.pdf)
+Lightfoot, E. & Zheng, M. (2019). Preparing for the Potential Reopening of Inter-Country Adoption from Romania. University of Minnesota, Center for Advanced Studies in Child Welfare. Available from [Download](https://cascw.umn.edu/wp-content/uploads/2019/11/PN34_WEB508.pdf)
 
 Zheng, M. (2018). Book review: Young people leaving state care in China. Journal of Sociology & Social Welfare, 45, 169–172
 
