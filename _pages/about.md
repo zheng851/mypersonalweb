@@ -13,15 +13,19 @@ redirect_from:
 </p>
 
 * I am a Ph.D. Candidate at [the University of Minnesota](https://www.umn.edu/) [School of Social Work](https://www.cehd.umn.edu/ssw/), with a minor in Biostatistics. 
-* I am interested in congniton and mental health among older adults and long-term services and supports in Community Setting and mental health
-* 
-* 
-* 
-
-# Recent News
-* 
-* 
+* I am interested in congniton and mental health among older adults and long-term services and supports in Community Setting.
+* I have to admit, I am a tech geek and a pizza lover. 
 * 
 * 
 
+# Education Background
+
+* Ph.D. University of Minnesota (Expected May 2021)
+  * Doctorate of Philosophy in Social Work
+  * Minor in Biostatistics
+* M.S.W. Boston University School of Social Work, 2013
+  * Aging Practice, Policy and Social Justice Concentration
+  * Louis Lowy Certificate in Gerontological Social Work
+* B.A Beijing Normal University-Zhuhai, 2011
+  * Business Administration
 
