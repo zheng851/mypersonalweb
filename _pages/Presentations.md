@@ -33,3 +33,22 @@ Zheng, M. (2018, May). Prenatal care among foreign migrant farmworkers in the Un
 
 Lightfoot, E., DeZelar, S., & Zheng, M. (2018, January). Parents with disabilities in the child welfare system: Equity and justice implications. Poster presented at the 22rd Annual Conference of the Society for Social Work and Research, Washington, DC.
 
+
+# Invited and Other Community Presentations
+
+Zheng, M. (April, 2019). Applying hierarchical linear modeling (HLM) to social work research. Guest lecture in Innovations in Social Research course. University of Bucharest, Romania. 
+
+Zheng, M. (April, 2019). Social work in China: The good, the bad, and the ugly. Guest lecture in International Social Work course. University of Minnesota School of Social Work, Saint Paul, MN 
+
+Zheng, M. (November, 2018). Factors associated with health-related needs screening rates among older adults in the subsidized housing. College of Education and Human Development. University of Minnesota, Minneapolis, MN. 
+
+Zheng, M. (May, 2018). Assessing the impact of the 1961 White House Conference on Aging on the passage of Medicare. Social Welfare History Conference. University of Minnesota, Saint Paul, MN. 
+
+Zheng, M. (February, 2018). Social security system in China. Guest lecture in International and Comparative Social Welfare Policy course. University of Minnesota School of Social Work, Saint Paul, MN 
+
+Zheng, M. (July, 2017) Evaluating the effectiveness of the Live Well at Home Program at CommonBond Communities. CommonBond Communities, Minneapolis, MN. 
+
+Zheng, M. (December, 2014). The prevalence of mental health problems among older adults in China. Wenxin Social Services, Shenzhen, Guangdong, China 
+
+Zheng, M. (October, 2014). Working with older adults: An motivational interviewing approach. Wenxin Social Services, Shenzhen, Guangdong, China
+
