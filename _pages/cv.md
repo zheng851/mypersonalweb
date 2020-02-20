@@ -11,22 +11,28 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.A. in Franchise Management, Beijing Normal University-Zhuhai, 2011
+* M.S.W. in Social Work, Boston University, 2013
+* Ph.D in Social Work, University of Minnesota, 2021 (expected)
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* 2017-2018 Program Evaluator
+  * CommonBond Communities, Minneapolis, MN
   
+* 2015-2016 Social Worker/Researcher
+  * Zhuhai Special Education School, Guangdong, China
+* 2014-2015 Social Worker
+  * Wenxin Social Services, Guangdong, China
+* 2013-2014 Case Manager
+  * ACMH, Inc, New York, NY
+* 2012-2013 Clinical Intern
+  * Kit Clark Senior Services-BayCove, Dorchester, MA
+* 2012-2013 Clinical Social Work Intern
+  * Lemuel Shattuck Hospital, Dorchester, MA
+* 2011-2012 Clinical Social Work Intern
+  * Friends of the Children, Boston, MA
+
 Skills
 ======
 * Skill 1
