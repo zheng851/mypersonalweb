@@ -14,7 +14,7 @@ Merighi, J., Zheng, M., & Browne, T. (2018). Nephrology social workers’ caselo
 
 # Manuscripts Under Review
 
-Vang, C., Sieng, M., & Zheng, M. (2019). Conceptualizing loneliness among a refugee older adult group: Using an<br> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; intersectionality framework. Ageing & Society. 
+Vang, C., Sieng, M., & Zheng, M. (2019). Conceptualizing loneliness among a refugee older adult group: Using an<br> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;intersectionality framework. Ageing & Society. 
 
 Calhoun, M., Okamoto, K., Lightfoot, L., Goodenough, K. & Zheng, M. (2019). Contemporary perceptions of social work: <br> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Macro practice in the profession. Journal of Community Practice.
 
@@ -27,7 +27,7 @@ Zheng, M., & Liu, X. Understanding depression in a family context: Evidence from
 
 # Other Publications
 
-Lightfoot, E. & Zheng, M. (2019). Promising Practices to Support Parents with Intellectual Disabilities. University of <br> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Minnesota, Center for Advanced Studies in Child Welfare. Available from [Download](https://cascw.umn.edu/wp-content/uploads/2019/11PracticeNotes_33.508.pdf)
+Lightfoot, E. & Zheng, M. (2019). Promising Practices to Support Parents with Intellectual Disabilities. University of <br> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Minnesota, Center for Advanced Studies in Child Welfare. Available from [Download](https://cascw.umn.edu/wp-content/uploads/2019/11PracticeNotes_33.508.pdf)
 
 Lightfoot, E. & Zheng, M. (2019). Preparing for the Potential Reopening of Inter-Country Adoption from Romania. <br> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;University of Minnesota, Center for Advanced Studies in Child Welfare. Available from [Download](https://cascw.umn.edu/wp-content/uploads/2019/11/PN34_WEB508.pdf)
 
