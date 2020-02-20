@@ -6,15 +6,15 @@ permalink: /publications/
 author_profile: true
 ---
 
-Lightfoot, E., & Zheng, M. (Accepted) (2019). A Snapshot of the Tightening Academic Job Market for Social <br> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Work Doctoral Students. Journal of Social Work Education.
+Lightfoot, E., & **Zheng, M.** (Accepted) (2019). A Snapshot of the tightening academic job market for social <br> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;work doctoral students. *Journal of Social Work Education*.
   
 
-Merighi, J., Zheng, M., & Browne, T. (2018). Nephrology social workers’ caseloads and hourly wages in 2014 and 2017: <br> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Findings from the National Kidney Foundation Council of Nephrology Social Workers professional practice survey. <br> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The Journal of Nephrology Social Work, 42(1), 31-59.[Download](https://www.kidney.org/sites/default/files/v42a_a3.pdf)
+Merighi, J., **Zheng, M.,** & Browne, T. (2018). Nephrology social workers’ caseloads and hourly wages in 2014 and 2017: <br> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Findings from the National Kidney Foundation Council of Nephrology Social Workers professional practice survey. <br> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*The Journal of Nephrology Social Work*, 42(1), 31-59.[Download](https://www.kidney.org/sites/default/files/v42a_a3.pdf)
 
 
 # Manuscripts Under Review
 
-Vang, C., Sieng, M., & Zheng, M. (2019). Conceptualizing loneliness among a refugee older adult group: Using an<br> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;intersectionality framework. Ageing & Society. 
+Vang, C., Sieng, M., & **Zheng, M.** (2019). Conceptualizing loneliness among a refugee older adult group: Using an<br> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;intersectionality framework. Ageing & Society. 
 
 Calhoun, M., Okamoto, K., Lightfoot, L., Goodenough, K. & Zheng, M. (2019). Contemporary perceptions of social work: <br> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Macro practice in the profession. Journal of Community Practice.
 
