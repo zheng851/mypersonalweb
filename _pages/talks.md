@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "Juried Presentations"
-permalink: /talks/
+permalink: /Presentations/
 author_profile: true
 ---
 
