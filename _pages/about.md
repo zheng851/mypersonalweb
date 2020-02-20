@@ -1,7 +1,7 @@
 ---
 permalink: /
 title: "About me"
-excerpt: "About me"
+excerpt: "About me [CV] (https://github.com/zhmy89/mypersonalweb/blob/master/files/Mingyang_CV_02_10_2020.pdf)"
 author_profile: true
 redirect_from: 
   - /about/
