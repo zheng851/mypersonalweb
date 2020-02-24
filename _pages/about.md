@@ -19,7 +19,7 @@ redirect_from:
 
 # Education Background
 
-* Ph.D. University of Minnesota (Expected May 2021)
+* Ph.D. University of Minnesota (Expected in May 2021)
   * Doctorate of Philosophy in Social Work
   * Minor in Biostatistics
 * M.S.W. Boston University School of Social Work, 2013
