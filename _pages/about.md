@@ -15,7 +15,7 @@ redirect_from:
 * I am a Ph.D. Candidate at [the University of Minnesota](https://www.umn.edu/) [School of Social Work](https://www.cehd.umn.edu/ssw/), with a minor in Biostatistics. 
 * I am interested in congniton and mental health among older adults and long-term services and supports in Community Setting.
 * My dissertation research focuses on the environmental impacts on the cognitive trajectories among older adults in the US and China. 
-* Top three favorite things to do when I am not working: Spending time with my partner, wathing basketball games, and eathing a whole pizza. Sorry daugther, you didn't make it to the top three. Maybe top ten...
+* Top three favorite things to do when I am not working: Spending time with my partner, watching basketball games, and eathing a whole pizza. Sorry daugther, you didn't make it to the top three. Maybe top ten?
 
 # Education Background
 
