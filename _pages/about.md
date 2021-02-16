@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About me [CV](https://github.com/zhmy89/mypersonalweb/raw/master/files/CV_MZheng.pdf)"
+title: "About me [CV](files/CV_MZheng.pdf)"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
