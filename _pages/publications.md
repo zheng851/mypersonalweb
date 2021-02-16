@@ -16,10 +16,10 @@ Calhoun, M., Okamoto, K., Lightfoot, L., Goodenough, K. & **Zheng, M.** (2020).
 Contemporary perceptions of social work:  <br> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Macro practice in the profession. *Journal of
 Community Practice*.
 
-Lightfoot, E., & **Zheng, M.** (2020). A Snapshot of the tightening academic job market for social work doctoral students. *Journal <br> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;of Social Work Education*.
+Lightfoot, E., & **Zheng, M.** (2020). A Snapshot of the tightening academic job market for social work doctoral students. <br> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *Journal of Social Work Education*.
 
 Lightfoot, E. **Zheng, M.**, & DeZelar, S. (2020). Substantiation of child maltreatment among
-parents with disabilities in the United <br> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;States. *Journal of Public Child Welfare*.
+parents with disabilities in the <br> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;United States. *Journal of Public Child Welfare*.
 
 Merighi, J., **Zheng, M.,** & Browne, T. (2018). Nephrology social workers’ caseloads and hourly wages in 2014 and 2017: <br> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Findings from the National Kidney Foundation Council of Nephrology Social Workers professional practice survey. <br> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*The Journal of Nephrology Social Work*, 42(1), 31-59. [Download](https://www.kidney.org/sites/default/files/v42a_a3.pdf)
 
