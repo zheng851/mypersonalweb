@@ -5,9 +5,41 @@ permalink: /Presentations/
 author_profile: true
 ---
 
-Zheng, M., & Liu, X. (Expected in 2020, January). Understanding depression in a family context: Evidence from the China Health and Retirement Longitudinal Study. Paper will be presented at the 24rd Annual Conference of the Society for Social Work and Research, Washington, DC. 
+Zheng, M. (2021, January). Understanding environmental effects on the trajectories of cognitive
+functioning among older adults in China. Poster to be presented at the 25th Annual
+Conference of the Society for Social Work and Research online.
 
-Lightfoot, E., & Zheng, M. (Expected in 2020, January). Are people with disabilities less likely to have children? Evidence from the Health and Retirement Study. Paper will be presented at the 24rd Annual Conference of the Society for Social Work and Research, Washington, DC. 
+Zheng, M. (2020, January). Can virtual reality simulation improve the attitudes for people with
+dementia in informal caregivers? Poster to be presented at the 25th Annual Conference
+of the Society for Social Work and Research online.
+
+Lightfoot, E., Carlson, J., Semanchin, A., & Zheng, M. (2020, November). The group advising
+model for doctoral mentoring: Harnessing peer and faculty strengths. Paper presented
+Council on Social Work Education 2020 Annual Program Meeting online
+
+Zheng, M. (2020, November). Theory-driven interventions in improving quality of life among
+older adults with dementia. Paper presented at the Council on Social Work Education
+2020 Annual Program Meeting online.
+
+Vang, C., Sieng, M., & Zheng, M. (2020, November). Resilience of Hmong older adults: Coping
+with loneliness. Paper presented at the Gerontological Society of America 2020 Annual
+Scientific Meeting online.
+
+Vang, C., Sieng, M., Zheng, M., & Thor, P. (2020, October). Experiences of loneliness among a
+refugee older adult group. Paper presented at the American Public Health Association
+2020 Annual Meeting and Expo online
+
+Vang, C., Sieng, M., Zheng, M., & Thor, P. (2020, March). A conceptual model of loneliness:
+Experiences of Hmong older adults. Poster presented at the College of Education and
+Human Development Research Day 2020, University of Minnesota, Minneapolis, MN.
+
+Zheng, M., & Liu, X. (2020, January). Understanding depression in a family context: Evidence
+from the China Health and Retirement Longitudinal Study. Paper presented at the 24th
+Annual Conference of the Society for Social Work and Research, Washington, DC.
+
+Lightfoot, E., & Zheng, M. (2020, January). Are people with disabilities less likely to have
+children? Evidence from the Health and Retirement Study. Poster presented at the 24th
+Annual Conference of the Society for Social Work and Research, Washington, DC.
 
 Zheng, M., & Liu, X. (November, 2019). Factors associated with severity of depression: Evidence from the China Health and Retirement Longitudinal Study. Poster presented atthe Gerontological Society of America 2019 Annual Scientific Meeting, Austin, TX. 
 
