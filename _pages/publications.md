@@ -37,15 +37,15 @@ Vang, C., Sieng, M., & **Zheng, M.** (under review). Conceptualizing loneliness 
 
 # Manuscripts in Process
 **Zheng, M.**, & Lightfoot, E. Improving attitudes and empathy toward people with dementia: A
-virtual reality education program.
+virtual reality education <br> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;program.
 
 **Zheng, M.**, Harding, K., & Kane, R. Lesson learned from the CommonBond Live Well at Home
-program: A Mixed-methods approach.
+program: A Mixed-methods <br> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;approach.
 
 **Zheng, M.,** & Liu, X. Understanding depression in a family context: Evidence from the China Health and Retirement <br> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Longitudinal Study.
 
 Merighi, J., **Zheng, M.**, & Browne, T. Emotional exhaustion in social work practice: Findings
-from a national survey of renal social <br> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;workers.
+from a national survey of renal <br> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;social workers.
 
 Merighi, J., **Zheng, M.**, & O’Keefe, T. Factors associated with perceived stress in cardiac
 rehabilitation patients.
