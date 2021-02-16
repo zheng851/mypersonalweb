@@ -26,11 +26,11 @@ Merighi, J., **Zheng, M.,** & Browne, T. (2018). Nephrology social workers’ ca
 
 # Manuscripts Under Review
 **Zheng, M.** (under review). Assessing the impact of the 1961 White House Conference on Aging
-on the passage of Medicare.<br> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; International Journal of Social Welfare.
+on the passage of <br> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Medicare. International Journal of Social Welfare.
 
 **Zheng, M.**, Kane, A. R., & Lightfoot, E. (revise and resubmit). Helping older residents Remain
-in low-income housing: Predictive <br> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;validity of the Live Well at Home-Rapid Screen
-(LWAH-RS) in a real-world application. Journal of Gerontological Social Work.
+in low-income housing: <br> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Predictive validity of the Live Well at Home-Rapid Screen
+(LWAH-RS) in a real-world application. Journal of <br> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Gerontological Social Work.
 
 Vang, C., Sieng, M., & **Zheng, M.** (under review). Conceptualizing loneliness among a refugee older adult group: Using an<br> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;intersectionality framework. Ageing & Society. 
 
