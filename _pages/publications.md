@@ -16,7 +16,7 @@ Calhoun, M., Okamoto, K., Lightfoot, L., Goodenough, K. & **Zheng, M.** (2020).
 Contemporary perceptions of social work:  <br> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Macro practice in the profession. Journal of
 Community Practice.
 
-Lightfoot, E., & **Zheng, M.** (2020). A Snapshot of the tightening academic job market for social work doctoral students. *Journal of Social Work Education*.
+Lightfoot, E., & **Zheng, M.** (2020). A Snapshot of the tightening academic job market for social work doctoral students. *Journal <br> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;of Social Work Education*.
 
 Lightfoot, E. **Zheng, M.**, & DeZelar, S. (2020). Substantiation of child maltreatment among
 parents with disabilities in the United <br> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;States. Journal of Public Child Welfare.
