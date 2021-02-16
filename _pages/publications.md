@@ -7,16 +7,16 @@ author_profile: true
 ---
 
 Lightfoot, E. & **Zheng, M.** (2021). Mentoring social work PhD students to help re-imagine longterm
-care. Journal of Gerontological<br> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Social Work.
+care. Journal of <br> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Gerontological Social Work.
 
 Kane, A. R., & **Zheng, M.** (2020). Long-term services and supports. In Franklin, C. (Ed.),
-Encyclopedia of Social Work. New York, <br> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;NY: Oxford University Press.
+Encyclopedia of Social Work. New <br> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;York, NY: Oxford University Press.
 
 Calhoun, M., Okamoto, K., Lightfoot, L., Goodenough, K. & **Zheng, M.** (2020).
-Contemporary perceptions of social work: Macro <br> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;practice in the profession. Journal of
+Contemporary perceptions of social work:  <br> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Macro practice in the profession. Journal of
 Community Practice.
 
-Lightfoot, E., & **Zheng, M.** (2020). A Snapshot of the tightening academic job market for social <br> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;work doctoral students. *Journal of Social Work Education*.
+Lightfoot, E., & **Zheng, M.** (2020). A Snapshot of the tightening academic job market for social work doctoral students. *Journal of Social Work Education*.
 
 Lightfoot, E. **Zheng, M.**, & DeZelar, S. (2020). Substantiation of child maltreatment among
 parents with disabilities in the United <br> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;States. Journal of Public Child Welfare.
