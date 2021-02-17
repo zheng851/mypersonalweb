@@ -87,10 +87,10 @@ author:
   bio              : "Ph.D. Candidate in Social Work"
   location         : "St. Paul, Minneapolis"
   employer         :
-  googlescholar    : ""
+  googlescholar    : #""
   email            : "zheng851@umn.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
-  uri              :
+  orcid            : "https://orcid.org/0000-0001-5758-2943"
   bitbucket        :
   codepen          :
   dribbble         :
