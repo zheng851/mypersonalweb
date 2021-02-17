@@ -28,3 +28,6 @@ redirect_from:
 * B.A Beijing Normal University-Zhuhai, 2011
   * Business Administration
 
+
+
+[google verified](mypersonalweb/files/google1cf43bbfb8bd63c4.html)
