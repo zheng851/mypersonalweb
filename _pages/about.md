@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 <p align="center">
-  <img src="https://github.com/zhmy89/mypersonalweb/blob/master/images/yini-161.jpg?raw=true" alt="Photo" style="width: 450px;"/> 
+  <img src="https://github.com/zheng851/mypersonalweb/blob/master/images/yini-161.jpg?raw=true" alt="Photo" style="width: 450px;"/> 
 </p>
 
 * I am a Ph.D. Candidate in the [School of Social Work](https://www.cehd.umn.edu/ssw/) at the [University of Minnesota Twin Cities](https://www.umn.edu/), with a minor in Biostatistics. 
