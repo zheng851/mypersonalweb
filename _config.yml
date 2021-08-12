@@ -25,7 +25,7 @@ comments:
   disqus:
     shortname            :
   discourse:
-    server               : https://zhmy89.github.io/mypersonalweb//posts/2012/08/blog-post-1/
+    server               : https://zheng851.github.io/mypersonalweb//posts/2012/08/blog-post-1/
     # https://meta.discourse.org/t/embedding-discourse-comments-via-javascript/31963 , e.g.: meta.discourse.org
   facebook:
     appid                :
@@ -97,7 +97,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "https://zhmy89.github.io/"
+  github           : "https://zheng851.github.io/"
   google_plus      :
   keybase          :
   instagram        :
