@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 <p align="center">
-  <img src="https://github.com/zheng851/mypersonalweb/blob/master/images/yini-161.jpg?raw=true" alt="Photo" style="width: 450px;"/> 
+  <img src="https://github.com/zheng851/mypersonalweb/blob/master/images/Lin-77.jpg?raw=true" alt="Photo" style="width: 450px;"/> 
 </p>
 
 * I am an assistant professor at Radford University School of Social Work.
