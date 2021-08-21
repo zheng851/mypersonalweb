@@ -12,7 +12,7 @@ redirect_from:
   <img src="https://github.com/zheng851/mypersonalweb/blob/master/images/Lin-77.jpg?raw=true" alt="Photo" style="width: 450px;"/> 
 </p>
 
-* I am an assistant professor at Radford University School of Social Work.
+* I am an assistant professor at [Radford University School of Social Work](https://www.radford.edu/content/wchs/home/social-work.html).
 * I received my Ph.D. from the [School of Social Work](https://www.cehd.umn.edu/ssw/) at the [University of Minnesota Twin Cities](https://www.umn.edu/), with a minor in Biostatistics. 
 * My research interests included long-term services and supports in community settings, mental health among older adults, and program evaluation and assessment. 
 * My dissertation research focuses on the environmental impacts on the cognitive trajectories among older adults in China and the US. 
