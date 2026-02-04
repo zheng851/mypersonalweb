@@ -6,6 +6,24 @@ permalink: /publications/
 author_profile: true
 ---
 
+Toft, J., Soffer-Elnekave, R., Calhoun, M., Otis, J., Mendel, J., **Zheng, M.**, Lightfoot, E., & Choy-Brown, M. (in press). Working conditions, professional discretion, and resistance of front-line social workers. <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*Social Work*.
+
+Toft, J., Soffer-Elnekave, R., **Zheng, M.**, Calhoun, M., & Lightfoot, E. (2025). The pressures of neoliberal managerialism: Challenges and opportunities for social work supervisors. <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*Social Work*.
+
+**Zheng, M.**, Frasier, P. Y., & Philippi, H. G. (2025). Why health care students say “no” to geriatric care: Insights from the theory of planned behavior. <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*Gerontology & Geriatrics Education*.
+
+**Zheng, M.**, & DeLiema, M. (2024). Why plan ahead? A focus group investigation on barriers in advance financial care planning. <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*Journal of Financial Counseling and Planning*.
+
+Vang, C., Sieng, M., & **Zheng, M.** (2023). Conceptualizing loneliness among a Hmong older adult group: Using an intersectionality framework. <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*Asian American Journal of Psychology*.
+
+**Zheng, M.**, Kane, A. R., & Lightfoot, E. (2022). Helping older residents remain in low-income housing: Predictive validity of the Live Well at Home–Rapid Screen (LWAH-RS) in a real-world application. <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*Journal of Gerontological Social Work*.
+
 Lightfoot, E. & **Zheng, M.** (2021). Mentoring social work PhD students to help re-imagine longterm
 care. Journal of <br> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*Gerontological Social Work*.
 
