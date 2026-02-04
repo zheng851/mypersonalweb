@@ -16,7 +16,7 @@ author_profile: true
 
 ## Juried Publications
 <div class="hanging-indent">
-  <p>Toft, J., Soffer-Elnekave, R., Calhoun, M., Otis, J., Mendel, J., <strong>Zheng, M.</strong>, Lightfoot, E., &amp; Choy-Brown, M. (in press). Working conditions, professional discretion, and resistance of front-line social workers. <em>Social Work</em>.</p>
+  <p>Toft, J., Soffer-Elnekave, R., Calhoun, M., Otis, J., Mendel, J., <strong>Zheng, M.</strong>, Lightfoot, E., &amp; Choy-Brown, M. (2026). Working conditions, professional discretion, and resistance of front-line social workers. <em>Social Work</em>.</p>
 
   <p>Toft, J., Soffer-Elnekave, R., <strong>Zheng, M.</strong>, Calhoun, M., &amp; Lightfoot, E. (2025). The pressures of neoliberal managerialism: Challenges and opportunities for social work supervisors. <em>Social Work</em>.</p>
 
