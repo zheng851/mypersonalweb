@@ -41,27 +41,6 @@ author_profile: true
   <p>Merighi, J., <strong>Zheng, M.</strong>, &amp; Browne, T. (2018). Nephrology social workers’ caseloads and hourly wages in 2014 and 2017: Findings from the National Kidney Foundation Council of Nephrology Social Workers professional practice survey. <em>The Journal of Nephrology Social Work</em>, 42(1), 31–59. <a href="https://www.kidney.org/sites/default/files/v42a_a3.pdf">Download</a></p>
 </div>
 
-## Manuscripts Under Review
-<div class="hanging-indent">
-  <p><strong>Zheng, M.</strong> (under review). Assessing the impact of the 1961 White House Conference on Aging on the passage of Medicare. <em>International Journal of Social Welfare</em>.</p>
-
-  <p><strong>Zheng, M.</strong>, Kane, A. R., &amp; Lightfoot, E. (revise and resubmit). Helping older residents remain in low-income housing: Predictive validity of the Live Well at Home–Rapid Screen (LWAH-RS) in a real-world application. <em>Journal of Gerontological Social Work</em>.</p>
-
-  <p>Vang, C., Sieng, M., &amp; <strong>Zheng, M.</strong> (under review). Conceptualizing loneliness among a refugee older adult group: Using an intersectionality framework. <em>Ageing &amp; Society</em>.</p>
-</div>
-
-## Manuscripts in Process
-<div class="hanging-indent">
-  <p><strong>Zheng, M.</strong>, &amp; Lightfoot, E. (in preparation). Improving attitudes and empathy toward people with dementia: A virtual reality education program.</p>
-
-  <p><strong>Zheng, M.</strong>, Harding, K., &amp; Kane, R. (in preparation). Lessons learned from the CommonBond Live Well at Home program: A mixed-methods approach.</p>
-
-  <p><strong>Zheng, M.</strong>, &amp; Liu, X. (in preparation). Understanding depression in a family context: Evidence from the China Health and Retirement Longitudinal Study.</p>
-
-  <p>Merighi, J., <strong>Zheng, M.</strong>, &amp; Browne, T. (in preparation). Emotional exhaustion in social work practice: Findings from a national survey of renal social workers.</p>
-
-  <p>Merighi, J., <strong>Zheng, M.</strong>, &amp; O’Keefe, T. (in preparation). Factors associated with perceived stress in cardiac rehabilitation patients.</p>
-</div>
 
 ## Other Publications
 <div class="hanging-indent">
