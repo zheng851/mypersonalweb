@@ -5,28 +5,43 @@ permalink: /Awards/
 author_profile: true
 ---
 
-* 2020&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Third Annual 3-Minute Thesis Finalist**<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; College of Education and Human Development, University of Minnesota. <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; (Finalist Final competition cancelled due to Coronavirus Pandemic)
+<style>
+.hanging-indent p {
+  padding-left: 2em;
+  text-indent: -2em;
+  margin: 0 0 0.75em 0;
+}
+</style>
 
-* 2019-2020 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Travel Award**, <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; University of Minnesota School of Social Work 
+<div class="hanging-indent">
+  <p>2024. Seed Grant Program, Radford University, $2,500.</p>
 
-* 2019 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Excellence in Teaching Award**, <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; University of Minnesota School of Social Work
+  <p>2023. Virginia Center on Aging, Virginia, $249,720.</p>
 
-* 2018-2019 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Mary E. Pennock Endowment Fellowship**, <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; University of Minnesota School of Social Work
+  <p>2020. Third Annual 3-Minute Thesis Finalist. College of Education and Human Development, University of Minnesota. (Final competition cancelled due to the COVID-19 pandemic.)</p>
 
-* 2018-2019 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Travel Award**, <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; University of Minnesota School of Social Work 
+  <p>2019–2020. Travel Award. University of Minnesota School of Social Work.</p>
 
-* 2018 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Doctoral Student Engaged Scholarship Award**, <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; University of Minnesota School of Social Work
+  <p>2019. Excellence in Teaching Award. University of Minnesota School of Social Work.</p>
 
-* 2018 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Social Research, Policy, and Practice (SRPP) Outstanding Student Poster Finalist**, <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Gerontological Society of America 2018 Annual Scientific Meeting
+  <p>2018–2019. Mary E. Pennock Endowment Fellowship. University of Minnesota School of Social Work.</p>
 
-* 2017-2018 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Joyce & Robert Rosene Doctoral Fellowship**, <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; University of Minnesota School of Social Work
+  <p>2018–2019. Travel Award. University of Minnesota School of Social Work.</p>
 
-* 2017-2018 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Travel Award**, <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; University of Minnesota School of Social Work
+  <p>2018. Doctoral Student Engaged Scholarship Award. University of Minnesota School of Social Work.</p>
 
-* 2016-2017 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Provost’s office Scholarship**, <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; University of Minnesota College of Education and Human Development
+  <p>2018. Social Research, Policy, and Practice (SRPP) Outstanding Student Poster Finalist. Gerontological Society of America Annual Scientific Meeting.</p>
 
-* 2016-2017 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **CEHD Doctoral Fellowship**, <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; University of Minnesota School of Social Work
+  <p>2017–2018. Joyce &amp; Robert Rosene Doctoral Fellowship. University of Minnesota School of Social Work.</p>
 
-* 2016-2017 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Mary E. Pennock Endowment Fellowship**, <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; University of Minnesota School of Social Work
+  <p>2017–2018. Travel Award. University of Minnesota School of Social Work.</p>
 
-* 2016-2017 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **David & Georgiana Hollister Fellowship**, <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; University of Minnesota School of Social Work.
+  <p>2016–2017. Provost’s Office Scholarship. University of Minnesota College of Education and Human Development.</p>
+
+  <p>2016–2017. CEHD Doctoral Fellowship. University of Minnesota School of Social Work.</p>
+
+  <p>2016–2017. Mary E. Pennock Endowment Fellowship. University of Minnesota School of Social Work.</p>
+
+  <p>2016–2017. David &amp; Georgiana Hollister Fellowship. University of Minnesota School of Social Work.</p>
+</div>
+
