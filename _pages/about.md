@@ -8,9 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-<p align="center">
-  <img src="https://github.com/zheng851/mypersonalweb/blob/master/images/Lin-77.jpg?raw=true" alt="Photo" style="width: 450px;"/> 
-</p>
 
 * I am an assistant professor at [Radford University School of Social Work](https://www.radford.edu/content/wchs/home/social-work.html).
 * I received my Ph.D. from the [School of Social Work](https://www.cehd.umn.edu/ssw/) at the [University of Minnesota Twin Cities](https://www.umn.edu/), with a minor in Biostatistics. 
