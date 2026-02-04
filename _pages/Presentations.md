@@ -18,7 +18,7 @@ author_profile: true
 </style>
 
 <div class="hanging-indent">
-  <p>Toft, J., Soffer-Elnekave, R., Lightfoot, E., Calhoun, M., &amp; &amp; <span class="author-me">Zheng, M.</span>  (May, 2025). The pressures of neoliberal managerialism: The dilemma of social work supervisors. <em>Macro United 2025 Conference</em>. St. Louis, MO.</p>
+  <p>Toft, J., Soffer-Elnekave, R., Lightfoot, E., Calhoun, M., &amp; <span class="author-me">Zheng, M.</span>  (May, 2025). The pressures of neoliberal managerialism: The dilemma of social work supervisors. <em>Macro United 2025 Conference</em>. St. Louis, MO.</p>
 
   <p>Rakes, S., &amp; &amp; <span class="author-me">Zheng, M.</span>  (March, 2025). Preparing undergraduate social work students for work with older adult clients. <em>BPD 42nd Annual Conference</em>. Las Vegas, NV.</p>
 
