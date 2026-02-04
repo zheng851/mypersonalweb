@@ -16,7 +16,7 @@ author_profile: true
 <div class="hanging-indent">
   <p>2024. Seed Grant Program, Radford University, $2,500.</p>
 
-  <p>2023. Virginia Center on Aging, Virginia, $249,72.</p>
+  <p>2023. Virginia Center on Aging, Virginia, $24,972.</p>
 
   <p>2020. Third Annual 3-Minute Thesis Finalist. College of Education and Human Development, University of Minnesota. (Final competition cancelled due to the COVID-19 pandemic.)</p>
 
