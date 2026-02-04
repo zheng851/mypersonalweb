@@ -4,7 +4,13 @@ title: "Teaching"
 permalink: /teaching/
 author_profile: true
 ---
-
+* 2021-Present Assistant Professor
+  * Social Work Research Methods (BSW)
+  * Basic Social Work Research Methods (MSW)
+  * Advanced Social Work Research Methods (MSW)
+  * Program Evaluation (MSW)
+  * Human Behaviors in the Social Environment (BSW)
+  * Human Behaviors in the Social Environment (MSW)
 * 2018-2021 Community Faculty
   * Course: Social Work Research Methods (MSW)
   * Course: Advanced Social Work Practice Evaluation (MSW)
