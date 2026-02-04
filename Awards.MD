@@ -14,6 +14,8 @@ author_profile: true
 </style>
 
 <div class="hanging-indent">
+  <p>2026. Interdisciplinary Grant,Radford University, $20,000.</p>
+
   <p>2024. Seed Grant Program, Radford University, $2,500.</p>
 
   <p>2023. Virginia Center on Aging, Virginia, $24,972.</p>
