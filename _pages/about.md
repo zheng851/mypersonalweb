@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About me [CV](files/CV_MZheng.pdf)"
+title: "About me [CV](files/CV_MZHENG_0826.pdf)"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,9 +8,6 @@ redirect_from:
   - /about.html
 ---
 [](https://github.com/zheng851/mypersonalweb/blob/b7e78c95e78c0602b804c95bdcabaffdec335992/_pages/google42dc01e18ec3dbde.html)
-
-<a href="https://github.com/zheng851/mypersonalweb/blob/b7e78c95e78c0602b804c95bdcabaffdec335992/_pages/google42dc01e18ec3dbde.html" style="color: white;">google42dc01e18ec3dbde.html</a>
-
 * I am an assistant professor at [Radford University School of Social Work](https://www.radford.edu/content/wchs/home/social-work.html).
 * I received my Ph.D. from the [School of Social Work](https://www.cehd.umn.edu/ssw/) at the [University of Minnesota Twin Cities](https://www.umn.edu/), with a minor in Biostatistics. 
 * My research interests included long-term services and supports in community settings, mental health among older adults, and program evaluation and assessment. 
