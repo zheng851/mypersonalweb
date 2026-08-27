@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Mingyang Zheng (郑铭扬）"
 title_separator          : "-"
-name                     : &name "Mingyang Zheng"
+name                     : &name "Mingyang Zheng (郑铭扬）"
 description              : &description "personal description"
 url                      : https://zheng851.github.io/mypersonalweb/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
